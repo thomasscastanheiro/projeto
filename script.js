@@ -1,1 +1,9 @@
-console.log('Olá, mundo!')
+console.log('Olá, mundo!');
+
+let churrasco = "sim";
+
+if (churrasco == "sim") {
+    alert("vai ter churrasco!");
+} else {
+    alert("Então vamos marcar o churrasco!");
+}
